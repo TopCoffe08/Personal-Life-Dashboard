@@ -1,0 +1,6 @@
+{
+  "name": "Personal Life Dashboard",
+  "description": "Aplikasi web personal life dashboard multi-user untuk mengelola rutinitas harian, kebiasaan, target, dan jurnal pribadi dengan analitik komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
